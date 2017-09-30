@@ -1,0 +1,18 @@
+The Plan
+
+GOAL:
+September 30 3017. Become a, very good, Web developer within one year.
+
+OBJECTIVES:
+- To Learn 
+	- html 
+	- CSS 
+	-JavaScript
+
+	- github.com
+		- How to Install and Configure Git and GitHub on Windows
+		- https://youtu.be/J_Clau1bYco
+
+- Sources of Learning
+	- Youtube
+		- blondiebytes
